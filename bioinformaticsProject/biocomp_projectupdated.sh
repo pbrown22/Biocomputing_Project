@@ -3,7 +3,7 @@
 
 #access ref files 
 
- cd 
+cd 
 
 #to combine the raw hsp70 files into one fasta that we will hmm
 
